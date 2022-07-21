@@ -1,6 +1,6 @@
 # Fullstack React Blog Project
 
-#### [Description](#description) | [Demo](#demo) | [Important Git/GitHub Expectations](#important-gitgithub-expectations) | [Project Recommendations](#project-recommendations) | [Getting Started](#getting-started) | [Requirements](#requirements) | [tl;dr](@tl-dr) | [Bonuses](#bonuses)
+#### [Description](#description) | [Demo](#demo) | [Important Git/GitHub Expectations](#important-gitgithub-expectations) | [Project Recommendations](#project-recommendations) | [Getting Started](#getting-started) | [Requirements](#requirements) | [tl;dr](#tldr) | [Bonuses](#bonuses)
 
 ---------
 
@@ -17,7 +17,7 @@ This project will also give you experience working in a larger codebase, and one
 
 ![Fullstack React Blog Functionality Demo](fullstack-react-blog-demo.gif)
 
-[View larger version of demo here](https://watch.screencastify.com/v/oOK2ttb6XrB2suEhz2Mh).
+[View larger version of demo here](https://watch.screencastify.com/v/VQv9O2ZQIzUSxepqp2rW).
 
 ---------
 
